@@ -11,9 +11,13 @@ apt install python
 2nd
 ```bash
 git clone https://github.com/xnln7/FB-CLONE.git
-cd FB-CLONENIG
-chmod + x install
+cd FB-CLONE
+chmod + x *
 ./install
+```
+If not running 
+```bash
+python install.py
 ```
 
 ## Usage
