@@ -10,7 +10,7 @@ apt install python
 ```
 2nd
 ```bash
-git clone 
+git clone https://github.com/xnln7/FB-CLONEING.git
 ```
 
 ## Usage
