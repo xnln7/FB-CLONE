@@ -34,7 +34,7 @@ python install.py
 
 ## Tutorial :
 <p>
-  <a href="https://youtube.com/@xnln7">Tutorial Video</a>
+  <a href="[https://youtube.com/@xnln7](https://youtu.be/uThhx6k0EBw?si=jrIyh4SGMrvSap0k)">Tutorial Video</a>
   </p>
 
 
